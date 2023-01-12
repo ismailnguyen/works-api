@@ -1,0 +1,22 @@
+{
+  "name": "works-api",
+  "version": "1.0.0",
+  "description": "API to provide my works (based on a Notion API)",
+  "main": "api/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ismailnguyen/works-api.git"
+  },
+  "author": "Ismaïl NGUYEN",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ismailnguyen/works-api/issues"
+  },
+  "homepage": "https://github.com/ismailnguyen/works-api#readme",
+  "dependencies": {
+    "@notionhq/client": "^2.2.3"
+  }
+}
